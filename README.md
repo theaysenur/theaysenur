@@ -35,13 +35,7 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theaysenur&show_icons=true&theme=default&hide_border=true&locale=tr)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theaysenur&layout=compact&theme=default&hide_border=true&locale=tr)
-
----
 
 ### 📫 İletişim
 
