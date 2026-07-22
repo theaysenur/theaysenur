@@ -2,7 +2,7 @@
 
 🎓 Kocaeli Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
 
-🔬 Şu anda **Gebze Teknik Üniversitesi**'nde biyoinformatik alanında araştırma stajımı sürdürüyorum. Peptit-MHC bağlanma tahmini üzerine makine öğrenmesi modelleri geliştiriyorum.
+🔬 Şu anda **Gebze Teknik Üniversitesi**'nde biyoinformatik alanında araştırma stajımı sürdürüyorum. Hesaplamalı biyoloji ve makine öğrenmesi kesişiminde çalışıyorum.
 
 💡 İlgi alanlarım: **Makine Öğrenmesi**, **Veri Bilimi**, **Biyoinformatik**, **NLP** ve **Tam Yığın Web Geliştirme**
 
