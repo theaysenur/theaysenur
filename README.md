@@ -2,10 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,29,30&height=200&section=header&text=Ayşenur%20Karaaslan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%C2%B7%20Kocaeli%20University&descSize=16&descAlignY=55" width="100%" />
 
-Bilgisayar Mühendisliği Son Sınıf Öğrencisi · Kocaeli Üniversitesi
+🎓 Kocaeli Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim.
 
-Makine öğrenimi, veri bilimi ve web geliştirme alanlarında çalışıyorum.  
-Gebze Teknik Üniversitesi'nde peptit-MHC bağlanma tahmini üzerine biyoinformatik araştırma deneyimim bulunmaktadır.
+🔬 Gebze Teknik Üniversitesi'nde peptit-MHC Class I bağlanma tahmini üzerine biyoinformatik araştırma stajımı tamamladım.
+
+💻 Makine öğrenimi, veri bilimi ve tam yığın web geliştirme alanlarında projeler üretiyorum.
+
+🚀 EfficientNet ile görüntü sınıflandırmadan, graf algoritmalarıyla optimizasyona, Flutter ile mobil uygulamalardan React ile web platformlarına kadar geniş bir yelpazede çalışıyorum.
 
 ---
 
