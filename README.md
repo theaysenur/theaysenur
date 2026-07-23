@@ -6,7 +6,7 @@
 
 🔬 Gebze Teknik Üniversitesi'nde peptit-MHC Class I bağlanma tahmini üzerine biyoinformatik araştırma stajıma devam etmekteyim.
 
-💻 Makine öğrenimi  , veri bilimi ve  web geliştirme alanlarında projeler üretiyorum.
+💻 Makine öğrenimi, veri bilimi ve web geliştirme alanlarında projeler üretiyorum.
 
 ---
 
