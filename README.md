@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Ayşenur%20Karaaslan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%C2%B7%20Kocaeli%20University&descSize=16&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,29,30&height=200&section=header&text=Ayşenur%20Karaaslan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%C2%B7%20Kocaeli%20University&descSize=16&descAlignY=55" width="100%" />
 
 Bilgisayar Mühendisliği Son Sınıf Öğrencisi · Kocaeli Üniversitesi
 
-Makine öğrenimi, veri bilimi ve web geliştirme alanlarında çalışıyor,  
-karmaşık verileri pratik çözümlere dönüştürüyorum.
+Makine öğrenimi, veri bilimi ve web geliştirme alanlarında çalışıyorum.  
+Gebze Teknik Üniversitesi'nde peptit-MHC bağlanma tahmini üzerine biyoinformatik araştırma deneyimim bulunmaktadır.
 
 ---
 
@@ -44,6 +44,6 @@ karmaşık verileri pratik çözümlere dönüştürüyorum.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,29,30&height=120&section=footer" width="100%" />
 
 </div>
