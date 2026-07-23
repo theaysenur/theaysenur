@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Ayşenur%20Karaaslan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%C2%B7%20Bioinformatics%20Research&descSize=16&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Ayşenur%20Karaaslan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%C2%B7%20Kocaeli%20University&descSize=16&descAlignY=55" width="100%" />
 
-Kocaeli Üniversitesi Bilgisayar Mühendisliği Son Sınıf Öğrencisi  
-Gebze Teknik Üniversitesi Biyoinformatik Araştırma Stajyeri
+Bilgisayar Mühendisliği Son Sınıf Öğrencisi · Kocaeli Üniversitesi
 
-Hesaplamalı biyoloji ve makine öğrenimi kesişiminde çalışıyor,  
+Makine öğrenimi, veri bilimi ve web geliştirme alanlarında çalışıyor,  
 karmaşık verileri pratik çözümlere dönüştürüyorum.
 
 ---
@@ -20,12 +19,12 @@ karmaşık verileri pratik çözümlere dönüştürüyorum.
 ### Diller & Araçlar
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-ffe0f0?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/TensorFlow-fff0e0?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Scikit--learn-fff3e0?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/React-e0f7fa?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-e8eaf6?style=for-the-badge&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/Flask-f3e5f5?style=for-the-badge&logo=flask&logoColor=000000" />
 </p>
 
 ---
