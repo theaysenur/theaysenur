@@ -4,7 +4,7 @@
 
 🎓 Kocaeli Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim.
 
-🔬 Gebze Teknik Üniversitesi'nde peptit-MHC Class I bağlanma tahmini üzerine biyoinformatik araştırma stajıma devam etmekteyim.
+🔬 Gebze Teknik Üniversitesi'nde peptit-MHC Class I bağlanma tahmini üzerine biyoinformatik araştırma stajımı tamamladım.
 
 💻 Makine öğrenimi, veri bilimi ve web geliştirme alanlarında projeler üretiyorum.
 
